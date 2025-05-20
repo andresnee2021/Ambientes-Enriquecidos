@@ -800,9 +800,9 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <img 
-              src="https://i.imgur.com/0Jj9LtQ.png" 
+              src="https://images.unsplash.com/photo-1533699224246-6dc3b3ed3304" 
               alt="Logo Alcaldía de Neiva" 
-              className="h-16"
+              className="h-16 object-cover rounded"
             />
           </div>
           <div className="text-center md:text-right">
