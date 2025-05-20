@@ -7,9 +7,9 @@ const Header = () => {
     <header className="bg-blue-100 py-6">
       <div className="container mx-auto px-4">
         <img 
-          src="https://i.imgur.com/0Jj9LtQ.png" 
+          src="https://images.unsplash.com/photo-1533699224246-6dc3b3ed3304" 
           alt="Logo SEM Neiva" 
-          className="h-16 ml-auto"
+          className="h-16 ml-auto object-cover rounded"
         />
         <h1 className="text-4xl md:text-5xl font-bold text-blue-800 mt-8 text-center">
           Ambientes Enriquecidos
