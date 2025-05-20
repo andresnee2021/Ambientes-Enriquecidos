@@ -402,7 +402,7 @@ const DuaSection = () => {
           
           <div className="flex justify-center mb-6">
             <img 
-              src="https://images.unsplash.com/photo-1585980243496-fe29a36bd382" 
+              src="https://images.unsplash.com/photo-1577896851231-70ef18881754" 
               alt="Aprendizaje inclusivo" 
               className="rounded-xl shadow-lg w-full max-w-2xl h-auto"
             />
